@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/KapilDashore/react-app/static/css/main.d0326c43.chunk.css",
+    "main.js": "/KapilDashore/react-app/static/js/main.4cb9fc70.chunk.js",
+    "main.js.map": "/KapilDashore/react-app/static/js/main.4cb9fc70.chunk.js.map",
+    "runtime-main.js": "/KapilDashore/react-app/static/js/runtime-main.c1d39864.js",
+    "runtime-main.js.map": "/KapilDashore/react-app/static/js/runtime-main.c1d39864.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/KapilDashore/react-app/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.15e886dd.chunk.js": "/KapilDashore/react-app/static/js/2.15e886dd.chunk.js",
+    "static/js/2.15e886dd.chunk.js.map": "/KapilDashore/react-app/static/js/2.15e886dd.chunk.js.map",
+    "static/js/3.01a10458.chunk.js": "/KapilDashore/react-app/static/js/3.01a10458.chunk.js",
+    "static/js/3.01a10458.chunk.js.map": "/KapilDashore/react-app/static/js/3.01a10458.chunk.js.map",
+    "index.html": "/KapilDashore/react-app/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/KapilDashore/react-app/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.d0326c43.chunk.css.map": "/KapilDashore/react-app/static/css/main.d0326c43.chunk.css.map",
+    "static/js/2.15e886dd.chunk.js.LICENSE.txt": "/KapilDashore/react-app/static/js/2.15e886dd.chunk.js.LICENSE.txt",
+    "static/media/android.0027613d.png": "/KapilDashore/react-app/static/media/android.0027613d.png",
+    "static/media/app.5093af9f.jpg": "/KapilDashore/react-app/static/media/app.5093af9f.jpg",
+    "static/media/digital.41b679b5.png": "/KapilDashore/react-app/static/media/digital.41b679b5.png",
+    "static/media/img6.aacaf99c.svg": "/KapilDashore/react-app/static/media/img6.aacaf99c.svg",
+    "static/media/img7.c6cf3e9f.svg": "/KapilDashore/react-app/static/media/img7.c6cf3e9f.svg",
+    "static/media/img9.5f654e4e.svg": "/KapilDashore/react-app/static/media/img9.5f654e4e.svg",
+    "static/media/marketing.2c11e5c1.png": "/KapilDashore/react-app/static/media/marketing.2c11e5c1.png",
+    "static/media/software.f1f145fc.png": "/KapilDashore/react-app/static/media/software.f1f145fc.png",
+    "static/media/team2.e318d2b9.png": "/KapilDashore/react-app/static/media/team2.e318d2b9.png",
+    "static/media/team31.dcf18224.png": "/KapilDashore/react-app/static/media/team31.dcf18224.png",
+    "static/media/webb.9d5da7f4.png": "/KapilDashore/react-app/static/media/webb.9d5da7f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d39864.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.15e886dd.chunk.js",
+    "static/css/main.d0326c43.chunk.css",
+    "static/js/main.4cb9fc70.chunk.js"
+  ]
+}
